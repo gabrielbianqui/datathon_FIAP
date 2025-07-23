@@ -1,0 +1,839 @@
+0,Area de Atuacao,Generalized Area
+0.0,,Não Definido
+1.0,Administrativa,Administrativo/Negócios
+2.0,Comercial,Comercial/Vendas/Marketing
+3.0,Financeira/Controladoria,Administrativo/Negócios
+4.0,"Administrativa, Comercial, Financeira/Controladoria",Não TI - Multidisciplinar
+5.0,"TI - Arquitetura, TI - Infraestrutura, TI - Projetos",TI - Multidisciplinar
+6.0,TI - Infraestrutura,TI - Infraestrutura/Suporte
+7.0,TI - Desenvolvimento/Programação,TI - Desenvolvimento
+8.0,TI - Suporte,TI - Infraestrutura/Suporte
+9.0,"Administrativa, Financeira/Controladoria, Recursos Humanos",Não TI - Multidisciplinar
+10.0,TI - Projetos,TI - Gestão/Projetos
+11.0,Recursos Humanos,Recursos Humanos
+12.0,"Administrativa, Comercial",Não TI - Multidisciplinar
+13.0,TI - Governança,TI - Gestão/Projetos
+14.0,TI - Processos e Negócios,TI - Gestão/Projetos
+15.0,TI - Sistemas e Ferramentas,TI - Infraestrutura/Suporte
+16.0,TI - SAP,TI - SAP
+17.0,TI - Banco de Dados,TI - Dados
+18.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+19.0,TI - Qualidade/Testes,TI - Qualidade/Testes
+20.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Recursos Humanos, Relacionamento Técnico, TI - Banco de Dados, TI - SAP",TI - Multidisciplinar
+21.0,"Relacionamento Técnico, TI - Infraestrutura, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+22.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Recursos Humanos",TI - Gestão/Projetos
+23.0,TI - Telecom,TI - Infraestrutura/Suporte
+24.0,Marketing,Comercial/Vendas/Marketing
+25.0,"TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Infraestrutura/Suporte
+26.0,TI - Desenvolvimento/Mobile,TI - Desenvolvimento
+27.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+28.0,TI - Desenvolvimento/Design,TI - Desenvolvimento
+29.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+30.0,"Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+31.0,"TI - Infraestrutura, TI - Suporte",TI - Infraestrutura/Suporte
+32.0,"Administrativa, Financeira/Controladoria",Administrativo/Negócios
+33.0,"Administrativa, Comercial, Financeira/Controladoria, Novos Negócios e Parcerias, TI - Processos e Negócios",TI - Gestão/Projetos
+34.0,"Administrativa, Gestão e Alocação de Recursos de TI",TI - Gestão/Projetos
+35.0,"Administrativa, Recursos Humanos",Não TI - Multidisciplinar
+36.0,Jurídica,Administrativo/Negócios
+37.0,"TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+38.0,"TI - Infraestrutura, TI - SAP, TI - Suporte",TI - Multidisciplinar
+39.0,"TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+40.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+41.0,"Administrativa, TI - Projetos, TI - SAP",TI - Multidisciplinar
+42.0,"Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+43.0,"TI - Arquitetura, TI - Banco de Dados, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+44.0,Relacionamento Técnico,Comercial/Vendas/Marketing
+45.0,"Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+46.0,"Administrativa, Comercial, Recursos Humanos",Não TI - Multidisciplinar
+47.0,"TI - Banco de Dados, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+48.0,"Administrativa, Comercial, Financeira/Controladoria, Qualidade Corporativa",Não TI - Multidisciplinar
+49.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+50.0,"Administrativa, Comercial, TI - SAP, TI - Suporte",TI - Multidisciplinar
+51.0,"Administrativa, Comercial, TI - SAP",TI - SAP
+52.0,"TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+53.0,"Marketing, Recursos Humanos",Não TI - Multidisciplinar
+54.0,"Administrativa, Comercial, Recursos Humanos, Relacionamento Técnico",Não TI - Multidisciplinar
+55.0,"Administrativa, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Relacionamento Técnico",TI - Gestão/Projetos
+56.0,"Administrativa, Financeira/Controladoria, Qualidade Corporativa, TI - Processos e Negócios",TI - Gestão/Projetos
+57.0,TI - Segurança da Informação,TI - Segurança
+58.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Marketing, Qualidade Corporativa, Recursos Humanos",TI - Gestão/Projetos
+59.0,"Administrativa, Comercial, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico",Não TI - Multidisciplinar
+60.0,"TI - Infraestrutura, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+61.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+62.0,"Qualidade Corporativa, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+63.0,"Administrativa, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+64.0,"Financeira/Controladoria, TI - SAP",TI - SAP
+65.0,"Administrativa, Marketing, TI - Banco de Dados, TI - Governança",TI - Multidisciplinar
+66.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios",TI - Multidisciplinar
+67.0,"TI - Arquitetura, TI - Telecom",TI - Multidisciplinar
+68.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+69.0,"Administrativa, Comercial, Marketing",Não TI - Multidisciplinar
+70.0,"Administrativa, Recursos Humanos, TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+71.0,"TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+72.0,Gestão e Alocação de Recursos de TI,TI - Gestão/Projetos
+73.0,"Administrativa, Recursos Humanos, TI - Desenvolvimento/Programação",TI - Desenvolvimento
+74.0,"Financeira/Controladoria, Novos Negócios e Parcerias",Não TI - Multidisciplinar
+75.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação",TI - Multidisciplinar
+76.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+77.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+78.0,"Administrativa, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+79.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+80.0,"Comercial, Financeira/Controladoria, Jurídica, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, TI - Projetos, TI - SAP",TI - Multidisciplinar
+81.0,"Administrativa, Comercial, Marketing, Qualidade Corporativa",Não TI - Multidisciplinar
+82.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+83.0,"Relacionamento Técnico, TI - Suporte",TI - Infraestrutura/Suporte
+84.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação",TI - Multidisciplinar
+85.0,"Relacionamento Técnico, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+86.0,"Administrativa, Comercial, Marketing, Novos Negócios e Parcerias",Não TI - Multidisciplinar
+87.0,Qualidade Corporativa,Administrativo/Negócios
+88.0,"Comercial, Jurídica",Não TI - Multidisciplinar
+89.0,"Comercial, Financeira/Controladoria, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+90.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+91.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+92.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+93.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+94.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura",TI - Multidisciplinar
+95.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios",TI - Multidisciplinar
+96.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+97.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+98.0,"Administrativa, Comercial, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa",Não TI - Multidisciplinar
+99.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+100.0,"Administrativa, Financeira/Controladoria, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Segurança da Informação",TI - Multidisciplinar
+101.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+102.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+103.0,"TI - Projetos, TI - SAP, TI - Suporte",TI - Multidisciplinar
+104.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+105.0,"Administrativa, Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+106.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+107.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias",TI - Gestão/Projetos
+108.0,"TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+109.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+110.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura",TI - Multidisciplinar
+111.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+112.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+113.0,"TI - Desenvolvimento/Design, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+114.0,TI - UX,TI - Desenvolvimento
+115.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Infraestrutura",TI - Multidisciplinar
+116.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+117.0,"Marketing, TI - Banco de Dados, TI - Processos e Negócios",TI - Multidisciplinar
+118.0,"Administrativa, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+119.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+120.0,"TI - Banco de Dados, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+121.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Marketing, Novos Negócios e Parcerias, Recursos Humanos, Relacionamento Técnico",TI - Gestão/Projetos
+122.0,"TI - Governança, TI - Projetos",TI - Gestão/Projetos
+123.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - SAP, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+124.0,"Administrativa, Jurídica, Recursos Humanos",Não TI - Multidisciplinar
+125.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+126.0,"Administrativa, Comercial, Financeira/Controladoria, Qualidade Corporativa, Recursos Humanos",Não TI - Multidisciplinar
+127.0,"Administrativa, Comercial, Financeira/Controladoria, TI - Banco de Dados, TI - Projetos",TI - Multidisciplinar
+128.0,"Financeira/Controladoria, Relacionamento Técnico, TI - Projetos",TI - Gestão/Projetos
+129.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Projetos",TI - Gestão/Projetos
+130.0,"Administrativa, TI - Projetos",TI - Gestão/Projetos
+131.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+132.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+133.0,Novos Negócios e Parcerias,Comercial/Vendas/Marketing
+134.0,"TI - Arquitetura, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+135.0,"Gestão e Alocação de Recursos de TI, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+136.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+137.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+138.0,TI - Arquitetura,TI - Arquitetura
+139.0,"Relacionamento Técnico, TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+140.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+141.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+142.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+143.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Recursos Humanos, Relacionamento Técnico",TI - Gestão/Projetos
+144.0,"TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+145.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+146.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+147.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+148.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios",TI - Multidisciplinar
+149.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+150.0,"Administrativa, Qualidade Corporativa, TI - SAP",TI - SAP
+151.0,"Administrativa, Relacionamento Técnico",Não TI - Multidisciplinar
+152.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+153.0,"Administrativa, Comercial, Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa",Não TI - Multidisciplinar
+154.0,"Administrativa, Gestão e Alocação de Recursos de TI, Qualidade Corporativa, Relacionamento Técnico",TI - Gestão/Projetos
+155.0,"Administrativa, Marketing, Novos Negócios e Parcerias, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+156.0,"Administrativa, TI - Sistemas e Ferramentas",TI - Infraestrutura/Suporte
+157.0,"TI - Arquitetura, TI - Infraestrutura",TI - Multidisciplinar
+158.0,"TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Desenvolvimento
+159.0,"Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+160.0,"TI - Banco de Dados, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+161.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Telecom",TI - Multidisciplinar
+162.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+163.0,"Administrativa, Gestão e Alocação de Recursos de TI, Jurídica, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - UX",TI - Multidisciplinar
+164.0,"Comercial, Jurídica, Marketing, Recursos Humanos",Não TI - Multidisciplinar
+165.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Banco de Dados, TI - Infraestrutura, TI - Projetos, TI - SAP",TI - Multidisciplinar
+166.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+167.0,"TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+168.0,"TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+169.0,"TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Infraestrutura/Suporte
+170.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação",TI - Desenvolvimento
+171.0,"TI - Infraestrutura, TI - Projetos, TI - SAP",TI - Multidisciplinar
+172.0,"Administrativa, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+173.0,"TI - Arquitetura, TI - Desenvolvimento/Mobile, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+174.0,"TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+175.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Desenvolvimento
+176.0,"TI - Infraestrutura, TI - Telecom",TI - Infraestrutura/Suporte
+177.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+178.0,"Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+179.0,"Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico, TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+180.0,"Administrativa, Financeira/Controladoria, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+181.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Segurança da Informação",TI - Multidisciplinar
+182.0,"TI - Infraestrutura, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+183.0,"Comercial, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+184.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Qualidade/Testes, TI - Segurança da Informação",TI - Multidisciplinar
+185.0,"TI - Governança, TI - Infraestrutura",TI - Multidisciplinar
+186.0,"Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura",TI - Multidisciplinar
+187.0,"TI - Banco de Dados, TI - SAP",TI - Multidisciplinar
+188.0,"TI - Arquitetura, TI - Banco de Dados, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+189.0,"Relacionamento Técnico, TI - Governança, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+190.0,"TI - Sistemas e Ferramentas, TI - Suporte",TI - Infraestrutura/Suporte
+191.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+192.0,"TI - Infraestrutura, TI - Suporte, TI - Telecom",TI - Infraestrutura/Suporte
+193.0,"Administrativa, TI - Governança",TI - Gestão/Projetos
+194.0,"Gestão e Alocação de Recursos de TI, TI - Infraestrutura, TI - Projetos",TI - Multidisciplinar
+195.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+196.0,"Administrativa, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+197.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI",TI - Gestão/Projetos
+198.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+199.0,"Administrativa, Financeira/Controladoria, Qualidade Corporativa, Recursos Humanos",Não TI - Multidisciplinar
+200.0,"Administrativa, Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa",Não TI - Multidisciplinar
+201.0,"TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+202.0,"TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+203.0,"TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+204.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+205.0,"Marketing, TI - Suporte",TI - Infraestrutura/Suporte
+206.0,"Comercial, Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+207.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - SAP",TI - Multidisciplinar
+208.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+209.0,"TI - Desenvolvimento/Mobile, TI - Infraestrutura, TI - Qualidade/Testes",TI - Multidisciplinar
+210.0,"Jurídica, TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+211.0,"Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Governança, TI - Projetos",TI - Gestão/Projetos
+212.0,"Administrativa, Gestão e Alocação de Recursos de TI, Marketing, TI - Desenvolvimento/Design, TI - Infraestrutura, TI - Processos e Negócios, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+213.0,"Comercial, Marketing",Comercial/Vendas/Marketing
+214.0,"TI - Arquitetura, TI - SAP, TI - Suporte",TI - Multidisciplinar
+215.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+216.0,"TI - Governança, TI - Processos e Negócios",TI - Gestão/Projetos
+217.0,"Administrativa, Comercial, Marketing, Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos, TI - UX",TI - Multidisciplinar
+218.0,"Administrativa, Financeira/Controladoria, Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+219.0,"Qualidade Corporativa, TI - SAP",TI - SAP
+220.0,"Financeira/Controladoria, TI - Processos e Negócios, TI - SAP",TI - Multidisciplinar
+221.0,"Administrativa, Qualidade Corporativa",Administrativo/Negócios
+222.0,"Administrativa, Comercial, Marketing, Qualidade Corporativa, TI - SAP, TI - Suporte",TI - Multidisciplinar
+223.0,"Administrativa, Financeira/Controladoria, Jurídica, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+224.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+225.0,"TI - Infraestrutura, TI - Sistemas e Ferramentas",TI - Infraestrutura/Suporte
+226.0,"TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+227.0,"Administrativa, Comercial, Financeira/Controladoria, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+228.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos",TI - Gestão/Projetos
+229.0,"Administrativa, Gestão e Alocação de Recursos de TI, Recursos Humanos",TI - Gestão/Projetos
+230.0,"Administrativa, Comercial, TI - Banco de Dados, TI - Projetos",TI - Multidisciplinar
+231.0,"TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+232.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Recursos Humanos",TI - Gestão/Projetos
+233.0,"Comercial, Financeira/Controladoria",Não TI - Multidisciplinar
+234.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa",TI - Gestão/Projetos
+235.0,"Administrativa, Comercial, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos",Não TI - Multidisciplinar
+236.0,"Administrativa, Recursos Humanos, TI - Projetos",TI - Gestão/Projetos
+237.0,"Administrativa, Comercial, Financeira/Controladoria, Recursos Humanos",Não TI - Multidisciplinar
+238.0,"TI - Banco de Dados, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+239.0,"Gestão e Alocação de Recursos de TI, TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+240.0,"TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+241.0,"TI - Projetos, TI - SAP",TI - Multidisciplinar
+242.0,"TI - SAP, TI - Suporte",TI - Multidisciplinar
+243.0,"Recursos Humanos, TI - Processos e Negócios, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+244.0,"Administrativa, Comercial, Financeira/Controladoria, TI - SAP",TI - SAP
+245.0,"Gestão e Alocação de Recursos de TI, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+246.0,"Financeira/Controladoria, Gestão e Alocação de Recursos de TI, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+247.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+248.0,"Administrativa, Comercial, Financeira/Controladoria, Jurídica, Marketing, Recursos Humanos",Não TI - Multidisciplinar
+249.0,"TI - Governança, TI - Qualidade/Testes",TI - Multidisciplinar
+250.0,"Administrativa, Comercial, Recursos Humanos, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+251.0,"Novos Negócios e Parcerias, TI - Arquitetura, TI - Processos e Negócios, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+252.0,"Comercial, Marketing, TI - Suporte, TI - Telecom",TI - Infraestrutura/Suporte
+253.0,"TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+254.0,"TI - Arquitetura, TI - Banco de Dados, TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+255.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Qualidade Corporativa, Relacionamento Técnico",TI - Gestão/Projetos
+256.0,"TI - Desenvolvimento/Programação, TI - SAP",TI - Multidisciplinar
+257.0,"Administrativa, Marketing",Não TI - Multidisciplinar
+258.0,"Administrativa, Comercial, Novos Negócios e Parcerias",Não TI - Multidisciplinar
+259.0,"Administrativa, Comercial, Financeira/Controladoria, TI - Banco de Dados, TI - Suporte",TI - Multidisciplinar
+260.0,"Administrativa, Comercial, Qualidade Corporativa",Não TI - Multidisciplinar
+261.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI",TI - Gestão/Projetos
+262.0,"Financeira/Controladoria, TI - Banco de Dados, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+263.0,"Administrativa, Financeira/Controladoria, Jurídica, Marketing",Não TI - Multidisciplinar
+264.0,"Administrativa, Financeira/Controladoria, Recursos Humanos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+265.0,"Administrativa, Comercial, Relacionamento Técnico",Não TI - Multidisciplinar
+266.0,"Administrativa, Comercial, Qualidade Corporativa, Recursos Humanos",Não TI - Multidisciplinar
+267.0,"Administrativa, Comercial, Financeira/Controladoria, Marketing, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Banco de Dados",TI - Dados
+268.0,"Administrativa, TI - Suporte",TI - Infraestrutura/Suporte
+269.0,"Administrativa, Comercial, Financeira/Controladoria, Marketing",Não TI - Multidisciplinar
+270.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+271.0,"TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+272.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - UX",TI - Multidisciplinar
+273.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+274.0,"TI - Governança, TI - Processos e Negócios, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+275.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+276.0,"Financeira/Controladoria, Gestão e Alocação de Recursos de TI, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+277.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - UX",TI - Multidisciplinar
+278.0,"Qualidade Corporativa, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+279.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+280.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - UX",TI - Desenvolvimento
+281.0,"Administrativa, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+282.0,"Relacionamento Técnico, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Telecom",TI - Multidisciplinar
+283.0,"Relacionamento Técnico, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+284.0,"TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+285.0,"TI - Desenvolvimento/Programação, TI - Qualidade/Testes",TI - Multidisciplinar
+286.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+287.0,"Relacionamento Técnico, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+288.0,"Qualidade Corporativa, TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+289.0,"Gestão e Alocação de Recursos de TI, TI - Projetos, TI - SAP",TI - Multidisciplinar
+290.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+291.0,"TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+292.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+293.0,"TI - Arquitetura, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Suporte",TI - Multidisciplinar
+294.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Telecom",TI - Multidisciplinar
+295.0,"Administrativa, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+296.0,"TI - Arquitetura, TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+297.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+298.0,"Gestão e Alocação de Recursos de TI, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+299.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+300.0,"TI - Desenvolvimento/Design, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+301.0,"Financeira/Controladoria, Gestão e Alocação de Recursos de TI",TI - Gestão/Projetos
+302.0,"Administrativa, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte, TI - UX",TI - Multidisciplinar
+303.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+304.0,"TI - Banco de Dados, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+305.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+306.0,"TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+307.0,"Administrativa, Comercial, Marketing, Recursos Humanos, Relacionamento Técnico, TI - Suporte",TI - Infraestrutura/Suporte
+308.0,"TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Suporte",TI - Multidisciplinar
+309.0,"TI - Infraestrutura, TI - Segurança da Informação",TI - Multidisciplinar
+310.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Qualidade/Testes",TI - Multidisciplinar
+311.0,"TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+312.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+313.0,"Relacionamento Técnico, TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+314.0,"Administrativa, Jurídica",Administrativo/Negócios
+315.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - UX",TI - Multidisciplinar
+316.0,"Administrativa, Financeira/Controladoria, Jurídica",Administrativo/Negócios
+317.0,"Administrativa, Financeira/Controladoria, TI - Projetos",TI - Gestão/Projetos
+318.0,"TI - Governança, TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+319.0,"Gestão e Alocação de Recursos de TI, TI - Infraestrutura, TI - Qualidade/Testes, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+320.0,"Gestão e Alocação de Recursos de TI, TI - Banco de Dados, TI - Infraestrutura, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+321.0,"TI - Desenvolvimento/Programação, TI - Qualidade/Testes, TI - Suporte",TI - Multidisciplinar
+322.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos",TI - Gestão/Projetos
+323.0,"TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+324.0,"Relacionamento Técnico, TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+325.0,"Administrativa, Financeira/Controladoria, Qualidade Corporativa",Administrativo/Negócios
+326.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+327.0,"Relacionamento Técnico, TI - Arquitetura",TI - Arquitetura
+328.0,"TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+329.0,"TI - Processos e Negócios, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+330.0,"Administrativa, Financeira/Controladoria, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+331.0,"Novos Negócios e Parcerias, Qualidade Corporativa, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+332.0,"Administrativa, Financeira/Controladoria, TI - Projetos, TI - SAP",TI - Multidisciplinar
+333.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+334.0,"TI - Arquitetura, TI - Banco de Dados",TI - Multidisciplinar
+335.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+336.0,"TI - Governança, TI - Projetos, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+337.0,"TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Segurança da Informação",TI - Multidisciplinar
+338.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+339.0,"Administrativa, Financeira/Controladoria, TI - Processos e Negócios",TI - Gestão/Projetos
+340.0,"Administrativa, Comercial, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+341.0,"TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+342.0,"TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+343.0,"Gestão e Alocação de Recursos de TI, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - UX",TI - Multidisciplinar
+344.0,"Marketing, TI - Desenvolvimento/Programação",TI - Desenvolvimento
+345.0,"TI - Governança, TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+346.0,"TI - Banco de Dados, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+347.0,"Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+348.0,"TI - Banco de Dados, TI - Governança",TI - Multidisciplinar
+349.0,"Administrativa, Marketing, Recursos Humanos",Não TI - Multidisciplinar
+350.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+351.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+352.0,"Marketing, Relacionamento Técnico, TI - Banco de Dados, TI - Processos e Negócios",TI - Multidisciplinar
+353.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+354.0,"Administrativa, TI - Processos e Negócios",TI - Gestão/Projetos
+355.0,"Administrativa, Comercial, Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+356.0,"Administrativa, Comercial, Financeira/Controladoria, Marketing, Recursos Humanos",Não TI - Multidisciplinar
+357.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+358.0,"TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+359.0,"Administrativa, Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Desenvolvimento/Design, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - UX",TI - Multidisciplinar
+360.0,"Marketing, TI - Desenvolvimento/Design, TI - Projetos",TI - Multidisciplinar
+361.0,"TI - Arquitetura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+362.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - SAP",TI - Multidisciplinar
+363.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+364.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+365.0,"TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+366.0,"Administrativa, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+367.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+368.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Telecom",TI - Multidisciplinar
+369.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+370.0,"TI - Arquitetura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+371.0,"Novos Negócios e Parcerias, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+372.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+373.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+374.0,"TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+375.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+376.0,"Administrativa, Financeira/Controladoria, Marketing, Qualidade Corporativa, Recursos Humanos",Não TI - Multidisciplinar
+377.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+378.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+379.0,"TI - Arquitetura, TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+380.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+381.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Recursos Humanos, Relacionamento Técnico, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+382.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+383.0,"TI - Arquitetura, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+384.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+385.0,"Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Recursos Humanos, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+386.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+387.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+388.0,"TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+389.0,"TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+390.0,"Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+391.0,"TI - Processos e Negócios, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+392.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Qualidade/Testes",TI - Multidisciplinar
+393.0,"TI - Arquitetura, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+394.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+395.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Suporte",TI - Multidisciplinar
+396.0,"TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+397.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+398.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+399.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom, TI - UX",TI - Multidisciplinar
+400.0,"Gestão e Alocação de Recursos de TI, Recursos Humanos",TI - Gestão/Projetos
+401.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+402.0,"TI - Desenvolvimento/Design, TI - Projetos",TI - Multidisciplinar
+403.0,"Administrativa, TI - Desenvolvimento/Design, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+404.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Recursos Humanos",TI - Gestão/Projetos
+405.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - SAP, TI - Suporte",TI - Multidisciplinar
+406.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Projetos, TI - SAP",TI - Multidisciplinar
+407.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+408.0,"Gestão e Alocação de Recursos de TI, TI - Desenvolvimento/Programação, TI - Governança, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+409.0,"TI - Arquitetura, TI - Banco de Dados, TI - SAP",TI - Multidisciplinar
+410.0,"TI - Banco de Dados, TI - Desenvolvimento/Design",TI - Multidisciplinar
+411.0,"Administrativa, Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+412.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+413.0,"Administrativa, Comercial, Financeira/Controladoria, Novos Negócios e Parcerias",Não TI - Multidisciplinar
+414.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+415.0,"Financeira/Controladoria, TI - Processos e Negócios",TI - Gestão/Projetos
+416.0,"TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+417.0,"TI - Banco de Dados, TI - Infraestrutura",TI - Multidisciplinar
+418.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Suporte",TI - Multidisciplinar
+419.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+420.0,"Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Infraestrutura, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+421.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+422.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+423.0,"TI - SAP, TI - UX",TI - Multidisciplinar
+424.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+425.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+426.0,"TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+427.0,"TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios",TI - Multidisciplinar
+428.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+429.0,"Gestão e Alocação de Recursos de TI, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+430.0,"Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Telecom",TI - Multidisciplinar
+431.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+432.0,"TI - Arquitetura, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+433.0,"Administrativa, TI - Banco de Dados, TI - Processos e Negócios",TI - Multidisciplinar
+434.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - UX",TI - Desenvolvimento
+435.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+436.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+437.0,"TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+438.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+439.0,"Administrativa, TI - Governança, TI - Infraestrutura",TI - Multidisciplinar
+440.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+441.0,"TI - Infraestrutura, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+442.0,"TI - Arquitetura, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+443.0,"TI - Desenvolvimento/Design, TI - UX",TI - Desenvolvimento
+444.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+445.0,"TI - Suporte, TI - Telecom",TI - Infraestrutura/Suporte
+446.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+447.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+448.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+449.0,"Administrativa, Comercial, Jurídica, TI - Suporte",TI - Infraestrutura/Suporte
+450.0,"TI - Arquitetura, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+451.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios",TI - Multidisciplinar
+452.0,"Administrativa, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+453.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile",TI - Desenvolvimento
+454.0,"TI - Desenvolvimento/Mobile, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+455.0,"TI - Governança, TI - Processos e Negócios, TI - SAP",TI - Multidisciplinar
+456.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+457.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+458.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+459.0,"TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+460.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+461.0,"Administrativa, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Suporte",TI - Multidisciplinar
+462.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica",TI - Gestão/Projetos
+463.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+464.0,"Administrativa, Comercial, Marketing, Relacionamento Técnico",Não TI - Multidisciplinar
+465.0,"Administrativa, Comercial, Qualidade Corporativa, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+466.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Qualidade Corporativa, Relacionamento Técnico, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Suporte, TI - UX",TI - Multidisciplinar
+467.0,"Relacionamento Técnico, TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+468.0,"Administrativa, Gestão e Alocação de Recursos de TI, TI - Projetos",TI - Gestão/Projetos
+469.0,"Novos Negócios e Parcerias, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+470.0,"Marketing, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+471.0,"Administrativa, Comercial, Marketing, Recursos Humanos",Não TI - Multidisciplinar
+472.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+473.0,"Administrativa, Qualidade Corporativa, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+474.0,"Administrativa, Comercial, Financeira/Controladoria, Relacionamento Técnico",Não TI - Multidisciplinar
+475.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+476.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - UX",TI - Multidisciplinar
+477.0,"Comercial, Qualidade Corporativa, TI - Processos e Negócios, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+478.0,"Administrativa, Comercial, Marketing, Relacionamento Técnico, TI - Banco de Dados, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+479.0,"Financeira/Controladoria, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - UX",TI - Multidisciplinar
+480.0,"Administrativa, Comercial, Recursos Humanos, Relacionamento Técnico, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+481.0,"Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+482.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa",TI - Gestão/Projetos
+483.0,"Financeira/Controladoria, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+484.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+485.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+486.0,"TI - Desenvolvimento/Design, TI - Suporte",TI - Multidisciplinar
+487.0,"Relacionamento Técnico, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+488.0,"TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+489.0,"TI - Governança, TI - SAP",TI - Multidisciplinar
+490.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Projetos, TI - SAP",TI - Multidisciplinar
+491.0,"Administrativa, Comercial, Marketing, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Banco de Dados, TI - Processos e Negócios",TI - Multidisciplinar
+492.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+493.0,"TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+494.0,"Administrativa, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+495.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+496.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+497.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+498.0,"Administrativa, Comercial, Marketing, TI - Projetos",TI - Gestão/Projetos
+499.0,"Administrativa, TI - Governança, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+500.0,"Comercial, Novos Negócios e Parcerias, Relacionamento Técnico",Comercial/Vendas/Marketing
+501.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+502.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+503.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+504.0,"TI - Banco de Dados, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+505.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+506.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+507.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+508.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+509.0,"Comercial, Novos Negócios e Parcerias, TI - Banco de Dados, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+510.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Governança, TI - Projetos, TI - Qualidade/Testes, TI - Suporte",TI - Multidisciplinar
+511.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+512.0,"TI - Desenvolvimento/Programação, TI - Governança",TI - Multidisciplinar
+513.0,"TI - Desenvolvimento/Design, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+514.0,"Comercial, Novos Negócios e Parcerias",Comercial/Vendas/Marketing
+515.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+516.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+517.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+518.0,"TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+519.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+520.0,"Novos Negócios e Parcerias, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - UX",TI - Multidisciplinar
+521.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+522.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+523.0,"Administrativa, Financeira/Controladoria, Recursos Humanos, TI - Desenvolvimento/Programação, TI - SAP",TI - Multidisciplinar
+524.0,"Administrativa, Comercial, TI - Banco de Dados",TI - Dados
+525.0,"TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação",TI - Multidisciplinar
+526.0,"Administrativa, Comercial, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico",Não TI - Multidisciplinar
+527.0,"Administrativa, Comercial, TI - Suporte",TI - Infraestrutura/Suporte
+528.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI",TI - Gestão/Projetos
+529.0,"Recursos Humanos, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+530.0,"TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Segurança da Informação",TI - Multidisciplinar
+531.0,"Administrativa, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+532.0,"TI - Desenvolvimento/Programação, TI - Segurança da Informação",TI - Multidisciplinar
+533.0,"Gestão e Alocação de Recursos de TI, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+534.0,"Administrativa, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+535.0,"Gestão e Alocação de Recursos de TI, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile",TI - Multidisciplinar
+536.0,"Administrativa, Comercial, TI - Desenvolvimento/Mobile, TI - Projetos",TI - Multidisciplinar
+537.0,"Administrativa, Comercial, TI - Projetos",TI - Gestão/Projetos
+538.0,"Administrativa, Comercial, Financeira/Controladoria, Marketing, Qualidade Corporativa, Recursos Humanos, TI - Banco de Dados, TI - Processos e Negócios, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+539.0,"Administrativa, Comercial, Marketing, TI - Banco de Dados",TI - Dados
+540.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Novos Negócios e Parcerias, Recursos Humanos",TI - Gestão/Projetos
+541.0,"Comercial, Financeira/Controladoria, Marketing",Não TI - Multidisciplinar
+542.0,"Administrativa, Comercial, Marketing, Recursos Humanos, Relacionamento Técnico, TI - Infraestrutura",TI - Infraestrutura/Suporte
+543.0,"Administrativa, TI - SAP",TI - SAP
+544.0,"Administrativa, Relacionamento Técnico, TI - Telecom",TI - Infraestrutura/Suporte
+545.0,"TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+546.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+547.0,"Administrativa, Comercial, Relacionamento Técnico, TI - Projetos",TI - Gestão/Projetos
+548.0,"Administrativa, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+549.0,"TI - Banco de Dados, TI - Infraestrutura, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+550.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+551.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+552.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+553.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+554.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+555.0,"Financeira/Controladoria, Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+556.0,"TI - Governança, TI - Infraestrutura, TI - Telecom",TI - Multidisciplinar
+557.0,"TI - Arquitetura, TI - Qualidade/Testes",TI - Multidisciplinar
+558.0,"TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+559.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Suporte",TI - Multidisciplinar
+560.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte, TI - UX",TI - Multidisciplinar
+561.0,"TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+562.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+563.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+564.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+565.0,"Administrativa, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+566.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura",TI - Multidisciplinar
+567.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Qualidade/Testes",TI - Multidisciplinar
+568.0,"Administrativa, Novos Negócios e Parcerias, TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+569.0,"Jurídica, Recursos Humanos, TI - Banco de Dados",TI - Dados
+570.0,"Marketing, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+571.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+572.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+573.0,"Administrativa, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+574.0,"TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+575.0,"Administrativa, Recursos Humanos, TI - SAP",TI - SAP
+576.0,"Administrativa, Comercial, Financeira/Controladoria, Marketing, Novos Negócios e Parcerias, Recursos Humanos",Não TI - Multidisciplinar
+577.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte, TI - UX",TI - Multidisciplinar
+578.0,"TI - Governança, TI - Suporte",TI - Multidisciplinar
+579.0,"TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+580.0,"Comercial, Gestão e Alocação de Recursos de TI, Marketing, Novos Negócios e Parcerias, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Suporte",TI - Multidisciplinar
+581.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+582.0,"TI - Arquitetura, TI - Projetos",TI - Multidisciplinar
+583.0,"TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - UX",TI - Multidisciplinar
+584.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+585.0,"Administrativa, Comercial, Jurídica",Não TI - Multidisciplinar
+586.0,"Administrativa, Financeira/Controladoria, TI - Arquitetura, TI - Processos e Negócios",TI - Multidisciplinar
+587.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+588.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Segurança da Informação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+589.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+590.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Qualidade/Testes",TI - Multidisciplinar
+591.0,"Relacionamento Técnico, TI - Banco de Dados, TI - Infraestrutura, TI - Qualidade/Testes, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+592.0,"Financeira/Controladoria, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+593.0,"Administrativa, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+594.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Marketing",TI - Gestão/Projetos
+595.0,"Administrativa, Comercial, Financeira/Controladoria, Jurídica, Novos Negócios e Parcerias, TI - SAP, TI - Segurança da Informação",TI - Multidisciplinar
+596.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+597.0,"TI - Governança, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+598.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+599.0,"Administrativa, Comercial, Financeira/Controladoria, Marketing, Novos Negócios e Parcerias",Não TI - Multidisciplinar
+600.0,"Administrativa, Comercial, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+601.0,"Administrativa, Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico",Não TI - Multidisciplinar
+602.0,"Marketing, TI - Desenvolvimento/Design, TI - UX",TI - Desenvolvimento
+603.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+604.0,"Qualidade Corporativa, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação",TI - Multidisciplinar
+605.0,"Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+606.0,"TI - Arquitetura, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+607.0,"TI - Desenvolvimento/Programação, TI - Governança, TI - Projetos",TI - Multidisciplinar
+608.0,"TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+609.0,"Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+610.0,"Comercial, Novos Negócios e Parcerias, Relacionamento Técnico, TI - Processos e Negócios",TI - Gestão/Projetos
+611.0,"TI - Banco de Dados, TI - Governança, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+612.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+613.0,"Marketing, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+614.0,"Administrativa, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico, TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+615.0,"Relacionamento Técnico, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+616.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos",TI - Multidisciplinar
+617.0,"Administrativa, TI - Processos e Negócios, TI - Suporte",TI - Multidisciplinar
+618.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+619.0,"TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+620.0,"TI - Desenvolvimento/Design, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+621.0,"Administrativa, Financeira/Controladoria, TI - SAP",TI - SAP
+622.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+623.0,"TI - Arquitetura, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+624.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+625.0,"Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+626.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Qualidade/Testes",TI - Multidisciplinar
+627.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Qualidade/Testes",TI - Multidisciplinar
+628.0,"Administrativa, Comercial, Financeira/Controladoria, Jurídica, Novos Negócios e Parcerias",Não TI - Multidisciplinar
+629.0,"Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+630.0,"Gestão e Alocação de Recursos de TI, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+631.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+632.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+633.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+634.0,"Qualidade Corporativa, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+635.0,"Administrativa, TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+636.0,"TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+637.0,"TI - Infraestrutura, TI - Projetos, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+638.0,"Relacionamento Técnico, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+639.0,"Gestão e Alocação de Recursos de TI, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+640.0,"Administrativa, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+641.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - UX",TI - Multidisciplinar
+642.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos",TI - Multidisciplinar
+643.0,"Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI",TI - Gestão/Projetos
+644.0,"TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+645.0,"TI - Arquitetura, TI - Banco de Dados, TI - Infraestrutura",TI - Multidisciplinar
+646.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios",TI - Multidisciplinar
+647.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Telecom",TI - Multidisciplinar
+648.0,"TI - Arquitetura, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Projetos",TI - Multidisciplinar
+649.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+650.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+651.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+652.0,"TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+653.0,"Relacionamento Técnico, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+654.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+655.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+656.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+657.0,"TI - Desenvolvimento/Mobile, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+658.0,"TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+659.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação",TI - Multidisciplinar
+660.0,"Gestão e Alocação de Recursos de TI, Recursos Humanos, TI - Projetos",TI - Gestão/Projetos
+661.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+662.0,"Administrativa, Comercial, Novos Negócios e Parcerias, TI - SAP",TI - SAP
+663.0,"Gestão e Alocação de Recursos de TI, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+664.0,"Administrativa, Marketing, Novos Negócios e Parcerias, Recursos Humanos",Não TI - Multidisciplinar
+665.0,"TI - Projetos, TI - Segurança da Informação",TI - Multidisciplinar
+666.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+667.0,"TI - Infraestrutura, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+668.0,"Administrativa, Novos Negócios e Parcerias, TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+669.0,"Marketing, Novos Negócios e Parcerias",Comercial/Vendas/Marketing
+670.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+671.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - SAP",TI - Multidisciplinar
+672.0,"TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+673.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+674.0,"Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - SAP",TI - Multidisciplinar
+675.0,"TI - Arquitetura, TI - Infraestrutura, TI - Segurança da Informação",TI - Multidisciplinar
+676.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Governança, TI - Projetos",TI - Gestão/Projetos
+677.0,"TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+678.0,"Administrativa, Gestão e Alocação de Recursos de TI, Marketing, Recursos Humanos, Relacionamento Técnico",TI - Gestão/Projetos
+679.0,"Relacionamento Técnico, TI - Banco de Dados, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+680.0,"TI - Banco de Dados, TI - Infraestrutura, TI - SAP",TI - Multidisciplinar
+681.0,"TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - SAP",TI - Multidisciplinar
+682.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Qualidade/Testes",TI - Multidisciplinar
+683.0,"TI - Governança, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+684.0,"TI - Arquitetura, TI - Banco de Dados, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+685.0,"TI - Desenvolvimento/Programação, TI - Projetos, TI - SAP, TI - Suporte",TI - Multidisciplinar
+686.0,"TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+687.0,"Administrativa, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+688.0,"TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+689.0,"Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Telecom",TI - Multidisciplinar
+690.0,"Administrativa, Financeira/Controladoria, TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+691.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Processos e Negócios",TI - Gestão/Projetos
+692.0,"Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+693.0,"TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+694.0,"Administrativa, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+695.0,"Relacionamento Técnico, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+696.0,"Marketing, Relacionamento Técnico, TI - Infraestrutura, TI - Projetos",TI - Multidisciplinar
+697.0,"TI - Desenvolvimento/Programação, TI - Suporte",TI - Multidisciplinar
+698.0,"TI - Arquitetura, TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+699.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+700.0,"Administrativa, Comercial, Marketing, TI - Telecom",TI - Infraestrutura/Suporte
+701.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+702.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+703.0,"Administrativa, Comercial, Jurídica, Novos Negócios e Parcerias",Não TI - Multidisciplinar
+704.0,"TI - Infraestrutura, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+705.0,"Administrativa, Comercial, Financeira/Controladoria, Jurídica, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa",Não TI - Multidisciplinar
+706.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+707.0,"Administrativa, Gestão e Alocação de Recursos de TI, Qualidade Corporativa, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+708.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+709.0,"TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - UX",TI - Multidisciplinar
+710.0,"Administrativa, Jurídica, Recursos Humanos, TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+711.0,"Gestão e Alocação de Recursos de TI, TI - Processos e Negócios",TI - Gestão/Projetos
+712.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+713.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - SAP",TI - Multidisciplinar
+714.0,"Gestão e Alocação de Recursos de TI, TI - Banco de Dados, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+715.0,"TI - Projetos, TI - Suporte",TI - Multidisciplinar
+716.0,"TI - Governança, TI - Infraestrutura, TI - Segurança da Informação",TI - Multidisciplinar
+717.0,"TI - Governança, TI - Processos e Negócios, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+718.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+719.0,"TI - Infraestrutura, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+720.0,"Administrativa, Financeira/Controladoria, Marketing, Recursos Humanos",Não TI - Multidisciplinar
+721.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+722.0,"Comercial, Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+723.0,"TI - Processos e Negócios, TI - Suporte",TI - Multidisciplinar
+724.0,"TI - Governança, TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+725.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+726.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico",TI - Gestão/Projetos
+727.0,"Administrativa, TI - Arquitetura, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+728.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação",TI - Multidisciplinar
+729.0,"Administrativa, Jurídica, Qualidade Corporativa",Administrativo/Negócios
+730.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+731.0,"Administrativa, TI - Banco de Dados",TI - Dados
+732.0,"TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Suporte",TI - Multidisciplinar
+733.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança",TI - Multidisciplinar
+734.0,"TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+735.0,"Comercial, Gestão e Alocação de Recursos de TI, Marketing, Novos Negócios e Parcerias",TI - Gestão/Projetos
+736.0,"Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos",TI - Gestão/Projetos
+737.0,"Gestão e Alocação de Recursos de TI, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+738.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Marketing",TI - Gestão/Projetos
+739.0,"Administrativa, Comercial, Novos Negócios e Parcerias, TI - Infraestrutura, TI - Projetos, TI - Telecom",TI - Multidisciplinar
+740.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+741.0,"Administrativa, Financeira/Controladoria, Novos Negócios e Parcerias, TI - Sistemas e Ferramentas",TI - Infraestrutura/Suporte
+742.0,"Marketing, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Telecom",TI - Multidisciplinar
+743.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+744.0,"TI - Governança, TI - Infraestrutura, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+745.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+746.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+747.0,"Administrativa, Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+748.0,"Comercial, Novos Negócios e Parcerias, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+749.0,"TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - UX",TI - Desenvolvimento
+750.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+751.0,"Gestão e Alocação de Recursos de TI, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+752.0,"TI - Infraestrutura, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+753.0,"TI - Desenvolvimento/Design, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Suporte",TI - Multidisciplinar
+754.0,"TI - Arquitetura, TI - Infraestrutura, TI - UX",TI - Multidisciplinar
+755.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+756.0,"TI - Governança, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+757.0,"Administrativa, Comercial, Novos Negócios e Parcerias, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+758.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico",TI - Gestão/Projetos
+759.0,"TI - Desenvolvimento/Design, TI - Qualidade/Testes",TI - Multidisciplinar
+760.0,"Administrativa, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Recursos Humanos",TI - Gestão/Projetos
+761.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+762.0,"TI - Governança, TI - Segurança da Informação",TI - Multidisciplinar
+763.0,"TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+764.0,"Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+765.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+766.0,"Comercial, Qualidade Corporativa, Recursos Humanos, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+767.0,"Administrativa, Comercial, Recursos Humanos, TI - Processos e Negócios",TI - Gestão/Projetos
+768.0,"TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+769.0,"TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+770.0,"TI - Banco de Dados, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+771.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Relacionamento Técnico, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+772.0,"TI - Governança, TI - Infraestrutura, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+773.0,"Administrativa, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+774.0,"TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Segurança da Informação, TI - Suporte",TI - Multidisciplinar
+775.0,"TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+776.0,"Gestão e Alocação de Recursos de TI, Novos Negócios e Parcerias, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+777.0,"TI - Governança, TI - Projetos, TI - SAP, TI - Suporte",TI - Multidisciplinar
+778.0,"TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+779.0,"Novos Negócios e Parcerias, Qualidade Corporativa, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Governança, TI - Infraestrutura, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+780.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+781.0,"TI - Governança, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+782.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+783.0,"Comercial, Relacionamento Técnico, TI - Qualidade/Testes",TI - Qualidade/Testes
+784.0,"Administrativa, Financeira/Controladoria, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+785.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+786.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Jurídica, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom, TI - UX",TI - Multidisciplinar
+787.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+788.0,"TI - Arquitetura, TI - Banco de Dados, TI - Infraestrutura, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+789.0,"TI - Arquitetura, TI - Desenvolvimento/Mobile, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+790.0,"Comercial, TI - SAP",TI - SAP
+791.0,"TI - Arquitetura, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Suporte",TI - Multidisciplinar
+792.0,"TI - Processos e Negócios, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+793.0,"Comercial, Financeira/Controladoria, Recursos Humanos",Não TI - Multidisciplinar
+794.0,"Recursos Humanos, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+795.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Marketing, Novos Negócios e Parcerias, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+796.0,"TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+797.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Telecom",TI - Multidisciplinar
+798.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação",TI - Multidisciplinar
+799.0,"TI - Desenvolvimento/Programação, TI - Telecom",TI - Multidisciplinar
+800.0,"TI - Arquitetura, TI - Banco de Dados, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação",TI - Multidisciplinar
+801.0,"Gestão e Alocação de Recursos de TI, TI - Arquitetura, TI - Infraestrutura, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+802.0,"TI - Arquitetura, TI - Infraestrutura, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+803.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+804.0,"TI - Qualidade/Testes, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+805.0,"Administrativa, TI - Infraestrutura, TI - Sistemas e Ferramentas",TI - Infraestrutura/Suporte
+806.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+807.0,"Administrativa, Comercial, Gestão e Alocação de Recursos de TI, Marketing, Novos Negócios e Parcerias, Relacionamento Técnico",TI - Gestão/Projetos
+808.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+809.0,"TI - Arquitetura, TI - Governança, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+810.0,"TI - Banco de Dados, TI - Processos e Negócios",TI - Multidisciplinar
+811.0,"Gestão e Alocação de Recursos de TI, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Suporte",TI - Multidisciplinar
+812.0,"TI - Banco de Dados, TI - Governança, TI - Processos e Negócios, TI - Projetos",TI - Multidisciplinar
+813.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes",TI - Multidisciplinar
+814.0,"TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+815.0,"Gestão e Alocação de Recursos de TI, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+816.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Processos e Negócios, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+817.0,"Administrativa, TI - Processos e Negócios, TI - Projetos, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+818.0,"TI - Infraestrutura, TI - Processos e Negócios, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+819.0,"TI - Arquitetura, TI - Banco de Dados, TI - Infraestrutura, TI - Suporte",TI - Multidisciplinar
+820.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes, TI - SAP",TI - Multidisciplinar
+821.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+822.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos, TI - Sistemas e Ferramentas, TI - UX",TI - Multidisciplinar
+823.0,"TI - Processos e Negócios, TI - SAP",TI - Multidisciplinar
+824.0,"TI - Desenvolvimento/Programação, TI - Projetos, TI - Qualidade/Testes, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+825.0,"TI - Arquitetura, TI - Governança, TI - Infraestrutura, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+826.0,"Administrativa, Comercial, Financeira/Controladoria, Gestão e Alocação de Recursos de TI, Marketing, Qualidade Corporativa, Recursos Humanos, Relacionamento Técnico, TI - Governança, TI - Processos e Negócios, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+827.0,"TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+828.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+829.0,"Financeira/Controladoria, TI - Governança, TI - Processos e Negócios",TI - Gestão/Projetos
+830.0,"TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - SAP, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+831.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Governança, TI - Infraestrutura, TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Segurança da Informação, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+832.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Programação, TI - Infraestrutura, TI - Sistemas e Ferramentas",TI - Multidisciplinar
+833.0,"TI - Arquitetura, TI - Banco de Dados, TI - Desenvolvimento/Design, TI - Desenvolvimento/Mobile, TI - Desenvolvimento/Programação, TI - Projetos, TI - UX",TI - Multidisciplinar
+834.0,"Financeira/Controladoria, Jurídica",Administrativo/Negócios
+835.0,"TI - Banco de Dados, TI - Infraestrutura, TI - Projetos, TI - Sistemas e Ferramentas, TI - Suporte",TI - Multidisciplinar
+836.0,"Administrativa, TI - Processos e Negócios, TI - Sistemas e Ferramentas, TI - Suporte, TI - Telecom",TI - Multidisciplinar
+837.0,"TI - Processos e Negócios, TI - Projetos, TI - Qualidade/Testes, TI - SAP, TI - Sistemas e Ferramentas",TI - Multidisciplinar
