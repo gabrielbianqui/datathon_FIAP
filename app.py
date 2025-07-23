@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-url = 'https://raw.githubusercontent.com/gabrielbianqui/datathon_FIAP/refs/heads/main/data/df_prospects_compatibilidade.csv'
+url = 'https://raw.githubusercontent.com/gabrielbianqui/datathon_FIAP/refs/heads/data/df_prospects_compatibilidade.csv'
 
 @st.cache_data
 def load_data(url):
