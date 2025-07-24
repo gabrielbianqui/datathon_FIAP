@@ -33,21 +33,23 @@ if analysis_type == 'Por Candidato':
         index=None # Garante que nada seja selecionado por padrão
     )
 
-    if selected_id:
-        st.subheader(f"Mostrando vagas para o candidato: {selected_id}")
 
-        # Filtra o dataframe para o candidato escolhido
+    if selected_id:
+        try:
+            nome_candidato = df_prospects.loc[df_prospects['codigo_candidato'] == selected_id, 'nome_candidato'].iloc[0]
+        except IndexError:
+            nome_candidato = "Nome não encontrado" 
+
+        st.subheader(f"Mostrando vagas para o candidato: {nome_candidato} ({selected_id})")
+
         df_filtrado = df_prospects[df_prospects['codigo_candidato'] == selected_id]
         
-        # Seleciona, renomeia e ordena as colunas para melhor visualização
         df_resultado = (
-            df_filtrado[['codigo_vaga', 'compatibilidade']]
-            .rename(columns={'codigo_vaga': 'Vaga Aplicada', 'compatibilidade': 'Compatibilidade'})
-            .sort_values(by='Compatibilidade', ascending=False)
+            df_filtrado[['codigo_vaga', 'titulo_vaga', 'match_score', 'compatibilidade']]
+            .sort_values(by='match_score', ascending=False)
+            .rename(columns={'codigo_vaga': 'ID Vaga', 'titulo_vaga': 'Título da Vaga', 'compatibilidade': 'Compatibilidade'})
+            .drop(columns=['match_score'])
         )
-        
-        # Formata a coluna de compatibilidade como porcentagem
-        df_resultado['Compatibilidade'] = df_resultado['Compatibilidade']
 
         st.dataframe(df_resultado, use_container_width=True)
 
@@ -63,19 +65,20 @@ else: # A análise é 'Por Vaga'
     )
 
     if selected_id:
-        st.subheader(f"Mostrando candidatos para a vaga: {selected_id}")
+        try:
+            nome_vaga = df_prospects.loc[df_prospects['codigo_vaga'] == selected_id, 'titulo_vaga'].iloc[0]
+        except IndexError:
+            nome_vaga = "Título da vaga não encontrado" 
 
-        # Filtra o dataframe para a vaga escolhida
+        st.subheader(f"Mostrando candidatos para a vaga: {nome_vaga} ({selected_id})")
+
         df_filtrado = df_prospects[df_prospects['codigo_vaga'] == selected_id]
         
-        # Seleciona, renomeia e ordena as colunas
         df_resultado = (
-            df_filtrado[['codigo_candidato', 'compatibilidade']]
-            .rename(columns={'codigo_candidato': 'Candidato Inscrito', 'compatibilidade': 'Compatibilidade'})
-            .sort_values(by='Compatibilidade', ascending=False)
+            df_filtrado[['codigo_candidato', 'nome_candidato', 'match_score', 'compatibilidade']]
+            .sort_values(by='match_score', ascending=False)
+            .rename(columns={'codigo_candidato': 'ID Candidato', 'nome_candidato': 'Nome', 'compatibilidade': 'Compatibilidade'})
+            .drop(columns=['match_score'])
         )
-        
-        # Formata a coluna de compatibilidade como porcentagem
-        df_resultado['Compatibilidade'] = df_resultado['Compatibilidade']
         
         st.dataframe(df_resultado, use_container_width=True)
